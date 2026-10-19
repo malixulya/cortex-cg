@@ -2,4 +2,4 @@ title: Cortex Cloud Gateway
 plugins:
   - jekyll-remote-theme
 
-remote_theme: cryptonym0/jekyll-theme-danish-pastel
+remote_theme: michaelnordmeyer/jekyll-theme-nix
