@@ -1,2 +1,2 @@
-# Cortex Cloud Gateway
-My personal website where i share my journey in learning cloud infrastructure.
+# Cortex Computer Graphics
+My personal website where i share my journey in graphics programming.
